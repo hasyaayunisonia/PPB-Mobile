@@ -8,8 +8,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class DetailActivity extends AppCompatActivity {
-   TextView textView1, textView2, textView3;
-   String string1, string2, string3;
+    TextView textView1, textView2, textView3;
+    String string1, string2, string3;
     ImageView imageView;
     private TaskViewModel mTaskViewModel;
     @Override
@@ -26,10 +26,10 @@ public class DetailActivity extends AppCompatActivity {
     }
 
     public void getData() {
-        if(getIntent().hasExtra("string1") && getIntent().hasExtra("string2") && getIntent().hasExtra("string3")) {
-            string1 = getIntent().getStringExtra("string1");
-            string2 = getIntent().getStringExtra("string2");
-            string3 = getIntent().getStringExtra("string3");
+        if(getIntent().hasExtra("tugas") && getIntent().hasExtra("catatan") ) {
+            string1 = getIntent().getStringExtra("tugas");
+            string2 = getIntent().getStringExtra("deadline");
+            string3 = getIntent().getStringExtra("catatan");
         } else {
             Toast.makeText(this,"Nothing",Toast.LENGTH_SHORT).show();
         }
