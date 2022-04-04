@@ -61,10 +61,10 @@ public class ListFragment extends Fragment {
                     "MASUK",
                     Toast.LENGTH_LONG).show();
         }else {
-            Toast.makeText(
-                    getActivity().getApplicationContext(),
-                    R.string.empty_not_saved,
-                    Toast.LENGTH_LONG).show();
+//            Toast.makeText(
+//                    getActivity().getApplicationContext(),
+//                    R.string.empty_not_saved,
+//                    Toast.LENGTH_LONG).show();
         }
     }
 }

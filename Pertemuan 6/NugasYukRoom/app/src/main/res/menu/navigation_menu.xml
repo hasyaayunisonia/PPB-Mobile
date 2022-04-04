@@ -9,9 +9,9 @@
 <!--        android:id="@+id/addNewTask"-->
 <!--        android:icon="@drawable/ic_add"-->
 <!--        android:title="@string/tambah_tugas"/>-->
-    <item
-        android:id="@+id/history"
-        android:icon="@drawable/ic_history"
-        android:title="@string/riwayat"/>
+<!--    <item-->
+<!--        android:id="@+id/history"-->
+<!--        android:icon="@drawable/ic_history"-->
+<!--        android:title="@string/riwayat"/>-->
 
 </menu>

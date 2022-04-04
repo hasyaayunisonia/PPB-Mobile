@@ -28,4 +28,10 @@ class TaskRepository {
         });
     }
 
+    void deleteTask(Task task) {
+        TaskRoomDatabase.databaseWriteExecutor.execute(() -> {
+            mTaskDao.deleteTask(task);
+        });
+//        new DeleteCourseAsyncTask(mTaskDao).execute(model);
+    }
 }
