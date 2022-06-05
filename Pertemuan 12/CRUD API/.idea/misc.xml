@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/CRUD API/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/CRUD API/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/CRUD API/app/src/main/res/layout/list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/Develop plus/CRUD API/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/Develop plus/CRUD API/app/src/main/res/layout/activity_single_user.xml" value="0.1" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/Develop/CRUD API/app/src/main/res/layout/activity_list_users.xml" value="0.15" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/Develop/CRUD API/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/Develop/CRUD API/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/Develop/CRUD API/app/src/main/res/layout/activity_single_user.xml" value="0.25" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_delayed_response.xml" value="0.20416666666666666" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_delete_user.xml" value="0.22" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_list_user.xml" value="0.1" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_list_user_resource.xml" value="0.20416666666666666" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_login_unsuccessful.xml" value="0.20416666666666666" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_patch_user.xml" value="0.19010416666666666" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_post_users.xml" value="0.22" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_put_user.xml" value="0.22" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_register_successful.xml" value="0.20416666666666666" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_register_unsuccessful.xml" value="0.20416666666666666" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_single_resource_not_found.xml" value="0.22" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_single_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_single_user_not_found.xml" value="0.25" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/activity_single_user_resource.xml" value="0.25" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/list_item.xml" value="0.22" />
+        <entry key="..\:/POLBAN/4/PPB (Mobile) P/Pertemuan 13/Tugas/terbaru dari yg terbaru/CRUD API/app/src/main/res/layout/list_resource.xml" value="0.24285714285714285" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
