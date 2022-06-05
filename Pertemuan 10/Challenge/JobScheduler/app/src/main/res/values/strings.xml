@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JobScheduler</string>
+    <string name="nework_type_required">Nework Type Required</string>
+    <string name="none">none</string>
+    <string name="any">any</string>
+    <string name="wifi">wifi</string>
+    <string name="cancel_job">Cancel Job</string>
+    <string name="schedule_job">Schedule Job</string>
+    <string name="requires">Requires:</string>
+    <string name="device_idle">Device Idle</string>
+    <string name="device_charging">Device Charging</string>
+    <string name="override_deadline">Override Deadline</string>
+    <string name="not_set">Not Set</string>
+</resources>
