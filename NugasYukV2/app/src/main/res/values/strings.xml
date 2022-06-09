@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NugasYuk</string>
+    <string name="judul_tugas">Judul Tugas</string>
+    <string name="input_nama_tugas">Masukkan Judul Tugas</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="input_tgl">Pilih Tanggal Pengerjaan</string>
+    <string name="jam">Jam</string>
+    <string name="input_jam">Tentukan Jam Pengingat</string>
+    <string name="note">Note</string>
+    <string name="input_note">Masukkan Catatan</string>
+    <string name="tambah">Tambah</string>
+    <string name="home">Home</string>
+    <string name="tambah_tugas">Tambah Tugas</string>
+
+    <string name="empty_not_saved">Kosong</string>
+</resources>
